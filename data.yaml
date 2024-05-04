@@ -1,0 +1,10 @@
+names:
+- Slub
+- Contamination
+- Knots
+- Stains
+- Sticker
+nc: 5
+test: D:\pythonProjects\Pipeliner\plainFinal/outputSticker/test/images
+train: D:\pythonProjects\Pipeliner\plainFinal/outputSticker/train/images
+val: D:\pythonProjects\Pipeliner\plainFinal/outputSticker/valid/images
